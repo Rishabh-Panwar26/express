@@ -6,8 +6,6 @@
 
 ## Table of contents
 
-# rishabh panwar
-
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
 - [Features](#features)
